@@ -1,4 +1,4 @@
-#Cydia OTA/Downloader
+# Cydia OTA/Downloader
 
 All OSes: [python command] CydiaDownloaderGUI.py
 
