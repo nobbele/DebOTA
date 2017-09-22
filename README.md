@@ -1,6 +1,6 @@
 # Deb OTA/Downloader
 
-All OSes: [python command] CydiaDownloaderGUI.py
+All OSes: [python command] DebOTAGUI.py
 
 replace [python command] with "py", "python" or "python3"
 
