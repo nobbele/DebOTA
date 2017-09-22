@@ -14,7 +14,7 @@ class DebDownloader():
             return 'null'
 def DownloadDeb(repo, IdOrName, NameOrPackageIndentifier='Name'):
     xyx = DebDownloader()
-    url = 'https://4pplecracker.github.io/Rainfall/'
+    url = repo
     url = xyx.Download(url, IdOrName)
     urllib.request.urlretrieve(url, 'debs/'+ IdOrName + ".deb")
 

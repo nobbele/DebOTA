@@ -1,1 +1,1 @@
-python3 CydiaDownloaderGUI.py
+python3 DebOTAGUI.py

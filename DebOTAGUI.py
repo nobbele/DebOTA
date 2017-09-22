@@ -68,7 +68,7 @@ class Application(tk.Frame):
         self.v.set("")
         
 root = tk.Tk()
-root.title('DebDownloader')
+root.title('DebOTA')
 root.geometry("400x300")
 app = Application(master=root)
 app.mainloop()
